@@ -1,0 +1,352 @@
+[
+    {
+        "address": "RUA DA  GROENLANDIA-255 APTO 404 - SION - BELO HORIZONTE - MG",
+        "expected": {
+            "street": "RUA DA GROENLANDIA",
+            "number": "255",
+            "complement": "APTO 404",
+            "neighborhood": "SION",
+            "city": "BELO HORIZONTE",
+            "state": "MG"
+        }
+    },
+    {
+        "address": "AV ROMULO MAIORANA 1695-APTO 1903 - MARCO - BELEM - PA",
+        "expected": {
+            "street": "AV ROMULO MAIORANA",
+            "number": "1695",
+            "complement": "APTO 1903",
+            "neighborhood": "MARCO",
+            "city": "BELEM",
+            "state": "PA"
+        }
+    },
+    {
+        "address": "R MON DANTAS-100 AP 1023 B - JACARECANGA - FORTALEZA - CE",
+        "expected": {
+            "street": "R MON DANTAS",
+            "number": "100",
+            "complement": "AP 1023 B",
+            "neighborhood": "JACARECANGA",
+            "city": "FORTALEZA",
+            "state": "CE"
+        }
+    },
+    {
+        "address": "AV RENE LACLETTE-APTO 807 BL 5 (ED LIRIO) - RECREIO DOS BANDEIRANTES - RIO DE JANEIRO - RJ",
+        "expected": null
+    },
+    {
+        "address": "RUA A, 40-LOT JARDIM COSTA MAR - ZONA DE EXPANSAO (ARUANA) - ARACAJU - SE",
+        "expected": {
+            "street": "RUA A",
+            "number": "40",
+            "complement": "LOT JARDIM COSTA MAR",
+            "neighborhood": "ZONA DE EXPANSAO (ARUANA)",
+            "city": "ARACAJU",
+            "state": "SE"
+        }
+    },
+    {
+        "address": "RUA TIBAU DO NORTE-25 - NOVA PARNAMIRIM - PARNAMIRIM - RN",
+        "expected": {
+            "street": "RUA TIBAU DO NORTE",
+            "number": "25",
+            "complement": "",
+            "neighborhood": "NOVA PARNAMIRIM",
+            "city": "PARNAMIRIM",
+            "state": "RN"
+        }
+    },
+    {
+        "address": "RUA 08H-RESIDENCIAL MONTE REAL, AP 201 - PREFEITO JOSE WALTER - FORTALEZA - CE",
+        "expected": null
+    },
+    {
+        "address": "AV JOSE ALCINO HANDAM DE REZENDE 1318-CS - CALAIS - BOM DESPACHO - MG",
+        "expected": {
+            "street": "AV JOSE ALCINO HANDAM DE REZENDE",
+            "number": "1318",
+            "complement": "CS",
+            "neighborhood": "CALAIS",
+            "city": "BOM DESPACHO",
+            "state": "MG"
+        }
+    },
+    {
+        "address": "SITIO BOA VENTURA-S/N - ZONA RURAL - POCAO - PE",
+        "expected": {
+            "street": "SITIO BOA VENTURA",
+            "number": "S/N",
+            "complement": "",
+            "neighborhood": "ZONA RURAL",
+            "city": "POCAO",
+            "state": "PE"
+        }
+    },
+    {
+        "address": "RUA GIUSEPPE TARTINI-SN BLOCO A16 APTO 27 - JARDIM SAO BERNARDO - SAO PAULO - SP",
+        "expected": {
+            "street": "RUA GIUSEPPE TARTINI",
+            "number": "SN",
+            "complement": "BLOCO A 16 APTO 27",
+            "neighborhood": "JARDIM SAO BERNARDO",
+            "city": "SAO PAULO",
+            "state": "SP"
+        }
+    },
+    {
+        "address": "RUA 09, 639-CASA - CENTRO - SANTA FE DO SUL - SP",
+        "expected": {
+            "street": "RUA 09",
+            "number": "639",
+            "complement": "CASA",
+            "neighborhood": "CENTRO",
+            "city": "SANTA FE DO SUL",
+            "state": "SP"
+        }
+    },
+    {
+        "address": "RUA RAIMUNDO DIOGENES DA SILVEIRA - N585 CASA - BAIRRO GAVIAO - SAO RAIMUNDO NONATO - PI",
+        "expected": {
+            "street": "RUA RAIMUNDO DIOGENES DA SILVEIRA",
+            "number": "585",
+            "complement": "CASA",
+            "neighborhood": "BAIRRO GAVIAO",
+            "city": "SAO RAIMUNDO NONATO",
+            "state": "PI"
+        }
+    },
+    {
+        "address": "BR 230-S/N - ZONA RURAL - APUI - AM",
+        "expected": {
+            "street": "BR 230",
+            "number": "S/N",
+            "complement": "",
+            "neighborhood": "ZONA RURAL",
+            "city": "APUI",
+            "state": "AM"
+        }
+    },
+    {
+        "address": "QNM, 34 CONJUNTO A-LOTE 15 AP 01 - TAGUATINGA NORTE (TAGUATINGA) - BRASILIA - DF",
+        "expected": {
+            "street": "QNM, 34 CONJUNTO A",
+            "number": "",
+            "complement": "LOTE 15 AP 01",
+            "neighborhood": "TAGUATINGA NORTE (TAGUATINGA)",
+            "city": "BRASILIA",
+            "state": "DF"
+        }
+    },
+    {
+        "address": "RUA DEZ, CASA 18-QUADRA 02 - PLANALTO VINHAIS II - SAO LUIS - MA",
+        "expected": {
+            "street": "RUA DEZ",
+            "number": "18",
+            "complement": "QUADRA 02",
+            "neighborhood": "PLANALTO VINHAIS II",
+            "city": "SAO LUIS",
+            "state": "MA"
+        }
+    },
+    {
+        "address": "AV DAS AMERICAS 1722 CASA 103-COND GREEN CLUB I - PARQUE DAS NACOES - PARNAMIRIM - RN",
+        "expected": {
+            "street": "AV DAS AMERICAS",
+            "number": "1722",
+            "complement": "CASA 103 - COND GREEN CLUB I",
+            "neighborhood": "PARQUE DAS NACOES",
+            "city": "PARNAMIRIM",
+            "state": "RN"
+        }
+    },
+    {
+        "address": "SQNW 109 BLOCO D-AP 208 - SETOR NOROESTE - BRASILIA - DF",
+        "expected": {
+            "street": "SQNW 109 BLOCO D",
+            "number": "",
+            "complement": "AP 208",
+            "neighborhood": "SETOR NOROESTE",
+            "city": "BRASILIA",
+            "state": "DF"
+        }
+    },
+    {
+        "address": "R ARTUR DA COSTA E SILVA-MAR. 538 - CORAL - LAGES - SC",
+        "expected": {
+            "street": "R ARTUR DA COSTA E SILVA - MAR",
+            "number": "538",
+            "complement": "",
+            "neighborhood": "CORAL",
+            "city": "LAGES",
+            "state": "SC"
+        }
+    },
+    {
+        "address": "LINHA FELIX DA CUNHA-S/N -  - GUAPORE - RS",
+        "expected": null
+    },
+    {
+        "address": "RUA  OLAVO BILAC-345/405 - NOSSA SENHORA DE FATIMA - SANTA MARIA - RS",
+        "expected": {
+            "street": "RUA OLAVO BILAC",
+            "number": "345",
+            "complement": "405",
+            "neighborhood": "NOSSA SENHORA DE FATIMA",
+            "city": "SANTA MARIA",
+            "state": "RS"
+        }
+    },
+    {
+        "address": "R MARIA CLARA TAVARES 65-AP 901 BLOCO 01 - CASTELO - BELO HORIZONTE - MG",
+        "expected": {
+            "street": "R MARIA CLARA TAVARES",
+            "number": "65",
+            "complement": "AP 901 BLOCO 01",
+            "neighborhood": "CASTELO",
+            "city": "BELO HORIZONTE",
+            "state": "MG"
+        }
+    },
+    {
+        "address": "R. TAQUARI 284 P-CASA 00001 - CENTRO - ESTEIO - RS",
+        "expected": {
+            "street": "R TAQUARI",
+            "number": "284",
+            "complement": "P - CASA 00001",
+            "neighborhood": "CENTRO",
+            "city": "ESTEIO",
+            "state": "RS"
+        }
+    },
+    {
+        "address": "SITIO FAZENDA VELHA - RURAL - FAZENDA VELHA - ESTIVA - MG",
+        "expected": {
+            "street": "SITIO FAZENDA VELHA",
+            "number": "",
+            "complement": "RURAL",
+            "neighborhood": "FAZENDA VELHA",
+            "city": "ESTIVA",
+            "state": "MG"
+        }
+    },
+    {
+        "address": "SITIO MATO SECO- - FAZENDA GRANDE - POUSO ALEGRE - MG ",
+        "expected": {
+            "street": "SITIO MATO SECO",
+            "number": "",
+            "complement": "",
+            "neighborhood": "FAZENDA GRANDE",
+            "city": "POUSO ALEGRE",
+            "state": "MG"
+        }
+    },
+    {
+        "address": "R  VIA FIRENZE-NUMERO 88 - JARDIM VILA PARADISO - INDAIATUBA - SP",
+        "expected": {
+            "street": "R VIA FIRENZE",
+            "number": "88",
+            "complement": "",
+            "neighborhood": "JARDIM VILA PARADISO",
+            "city": "INDAIATUBA",
+            "state": "SP"
+        }
+    },
+    {
+        "address": "R ESPIRITO SANTO-N49 - CENTRO - SUMARE - SP",
+        "expected": {
+            "street": "R ESPIRITO SANTO",
+            "number": "49",
+            "complement": "",
+            "neighborhood": "CENTRO",
+            "city": "SUMARE",
+            "state": "SP"
+        }
+    },
+    {
+        "address": "AV 11 MARCO-129 - CENTRO - GOVERNADOR EUGENIO BARROS - MA",
+        "expected": {
+            "street": "AV 11 MARCO",
+            "number": "129",
+            "complement": "",
+            "neighborhood": "CENTRO",
+            "city": "GOVERNADOR EUGENIO BARROS",
+            "state": "MA"
+        }
+    },
+    {
+        "address": "R 2 - QD AV 3 LT A CASA A - SETOR DONA GERCINA - RIO VERDE - GO",
+        "expected": {
+            "street": "R 2",
+            "number": "",
+            "complement": "QD AV 3 LT A CASA A",
+            "neighborhood": "SETOR DONA GERCINA",
+            "city": "RIO VERDE",
+            "state": "GO"
+        }
+    },
+    {
+        "address": "RUA JORNALISTA ORLANDO GARCIA 158 ED GAIVOTA-AP 904 - DORON - SALVADOR - BA",
+        "expected": {
+            "street": "RUA JORNALISTA ORLANDO GARCIA",
+            "number": "158",
+            "complement": "ED GAIVOTA - AP 904",
+            "neighborhood": "DORON",
+            "city": "SALVADOR",
+            "state": "BA"
+        }
+    },
+    {
+        "address": "R SILVIO ROMERO-8-AP 504 - SANTA TERESA - RIO DE JANEIRO - RJ",
+        "expected": {
+            "street": "R SILVIO ROMERO",
+            "number": "8",
+            "complement":"AP 504",
+            "neighborhood": "SANTA TERESA",
+            "city": "RIO DE JANEIRO",
+            "state": "RJ"
+        }
+    },
+    {
+        "address": "RUA  SIGEFREDO PINHEIRO-545 / APTO 1301 - FATIMA - FORTALEZA - CE",
+        "expected": {
+            "street": "RUA SIGEFREDO PINHEIRO",
+            "number": "545",
+            "complement": "APTO 1301",
+            "neighborhood": "FATIMA",
+            "city": "FORTALEZA",
+            "state": "CE"
+        }
+    },
+    {
+        "address": "AV BRASIL-NR 220 APT 1003 BLOCO 4 - JARDIM DAS AMERICAS 2A ETAPA - ANAPOLIS - GO",
+        "expected": {
+            "street": "AV BRASIL",
+            "number": "220",
+            "complement": "APT 1003 BLOCO 4",
+            "neighborhood": "JARDIM DAS AMERICAS 2 A ETAPA",
+            "city": "ANAPOLIS",
+            "state": "GO"
+        }
+    },
+    {
+        "address": "LINHA 14-LOTE 174 GLEBA 01 - ZONA RURAL - ALVORADA DOESTE - RO",
+        "expected": {
+            "street": "LINHA 14",
+            "number": "",
+            "complement": "LOTE 174 GLEBA 01",
+            "neighborhood": "ZONA RURAL",
+            "city": "ALVORADA DOESTE",
+            "state": "RO"
+        }
+    },
+    {
+        "address": "ESTRADA GERAL DEMORAS-S/N -  - ALFREDO WAGNER - SC",
+        "expected": null
+    },
+    {
+        "address": "SITIO JK LOTE-SN -  - BOM JESUS DO ARAGUAIA - MT",
+        "expected": null
+    }
+]

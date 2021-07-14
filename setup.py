@@ -11,5 +11,7 @@ setup(
     long_description_content_type="text/markdown",
     url="https://github.com/brain-facens/br-address-parser",
     keywords=["br-address", "address", "address-parser"],
-    extras_require={"dev": ["flake8>=3.9.2", "black>=21.6b0", "isort>-4.3.21"]},
+    extras_require={
+        "dev": ["pytest>=6.2.0", "flake8>=3.9.2", "black>=21.6b0", "isort>-4.3.21"]
+    },
 )
